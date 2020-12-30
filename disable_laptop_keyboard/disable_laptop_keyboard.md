@@ -3,8 +3,8 @@
 Often times laptop keyboards fails to register keypresses when they get old , or the behave weird and make random keystrokes while youre working in an important document.  
 You can disable the built in keyboard in laptops and use an external keyboard temporarily or permenantly.
 
-## 1. Disable from terminal
 ###  Using Xinput
+``xinput`` is a utility to configure and test input devices in Linux machines
 
 ## References
 
