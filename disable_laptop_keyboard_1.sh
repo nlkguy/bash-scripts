@@ -10,7 +10,6 @@ echo "           (__)\       )\/\\"
 echo "               ||--WWW |"
 echo "               ||     ||"
 
-
 txt=$(xinput | grep "AT Translated Set 2 keyboard")
 
 txt_trim=$(echo $txt | sed -e 's/^[[:space:]]*//')
