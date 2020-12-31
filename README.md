@@ -1,7 +1,9 @@
 # Bash-Scripts
 
-### 1.[Disable laptop Keyboard in Linux](https://github.com/nlkguy/bash-scripts/blob/main/disable_laptop_keyboard/disable_laptop_keyboard.md)
-
+### 1. [Disable laptop Keyboard in Linux](https://github.com/nlkguy/bash-scripts/blob/main/disable_laptop_keyboard/disable_laptop_keyboard.md)
+### 2.
+### 3.
+### 4.
 
 ## References
 
