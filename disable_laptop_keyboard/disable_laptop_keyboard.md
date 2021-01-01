@@ -9,8 +9,7 @@ Often times laptop keyboards fails to register keypresses when they get old , or
 1. type `xinput` into a terminal  
 
 2. find the ID or name of the keyboard. In most of the Debian Linux machines the name for laptop keyboard is  
-> `"AT Translated Set 2 keyboard"`  
-and there is a corresponding ID number. 
+`"AT Translated Set 2 keyboard"` and there is a corresponding ID number. 
 
 3. type `xinput disable <id>` or `xinput disable <"name">`
 
