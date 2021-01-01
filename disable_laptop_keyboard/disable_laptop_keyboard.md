@@ -11,13 +11,21 @@ Often times laptop keyboards fails to register keypresses when they get old , or
 2. find the ID or name of the keyboard. In most of the Debian Linux machines the name for laptop keyboard is  
 `"AT Translated Set 2 keyboard"` and there is a corresponding ID number. 
 
-3. type `xinput disable <id>` or `xinput disable <"name">`
+3. type `xinput disable <id>` or `xinput disable <"name">`  
+this will be reverted after reboot 
+
+### Execute on System Startup
+#### Rc.local method
+
 
 > Example :   
 > ```nlk@vaio-dhikan:~$ xinput disable 16```   
 > ```nlk@vaio-dhikan:~$ xinput disable "AT Translated Set 2 keyboard"```
 
 
+
+
 ## References
 
 >[AskUbuntu.com Thread](https://askubuntu.com/questions/160945/is-there-a-way-to-disable-a-laptops-internal-keyboard)
+>[LinuxHint.com : How to Run Linux Commands and Scripts Automatically on a System Reboot](https://linuxhint.com/run_linux_command_script_sys_reboot/)
