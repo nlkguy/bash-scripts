@@ -27,5 +27,5 @@ this will be reverted after reboot
 
 ## References
 
->[AskUbuntu.com Thread](https://askubuntu.com/questions/160945/is-there-a-way-to-disable-a-laptops-internal-keyboard)
+>[AskUbuntu.com : Thread on How to disable laptop keyboard](https://askubuntu.com/questions/160945/is-there-a-way-to-disable-a-laptops-internal-keyboard)  
 >[LinuxHint.com : How to Run Linux Commands and Scripts Automatically on a System Reboot](https://linuxhint.com/run_linux_command_script_sys_reboot/)
