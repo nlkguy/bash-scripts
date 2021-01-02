@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# version 1.1
 echo " ____________________________________"
 echo "/ Do you want to disable your laptop \\"
 echo "\ keyboard ??                        /"
