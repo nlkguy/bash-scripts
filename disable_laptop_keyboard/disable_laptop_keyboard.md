@@ -19,9 +19,6 @@ Example :
 > ```nlk@vaio-dhikan:~$ xinput disable 16```   
 > ```nlk@vaio-dhikan:~$ xinput disable "AT Translated Set 2 keyboard"```
 
-### Disable on every Startup
-#### Rc.local method
-
 
 
 
