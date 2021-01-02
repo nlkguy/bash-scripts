@@ -19,8 +19,22 @@ Example :
 > ```nlk@vaio-dhikan:~$ xinput disable 16```   
 > ```nlk@vaio-dhikan:~$ xinput disable "AT Translated Set 2 keyboard"```
 
+### Disable Permanently
+#### Ask Kernel not to check keyboard port
 
+1. Open terminal and run  
+>```sudo gedit /etc/default/grub```  
 
+2. find this line : ```GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"``` and   
+replace with : ```GRUB_CMDLINE_LINUX_DEFAULT="quiet splash i8042.nokbd"```  
+
+3. Apply changes to GRUB typing >```sudo update-grub```  
+
+4. `reboot` to apply changes
+
+## Other Useful Scripts
+>[Input Device Indicator by Adam Brandizzi](https://github.com/brandizzi/input-device-indicator/)  
+>[Lock-Keyboard-for-baby by Chris Sincock](https://sourceforge.net/projects/lk4b/)
 
 ## References
 
