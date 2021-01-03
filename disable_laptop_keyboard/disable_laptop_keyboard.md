@@ -39,4 +39,5 @@ replace with : ```GRUB_CMDLINE_LINUX_DEFAULT="quiet splash i8042.nokbd"```
 ## References
 
 >[AskUbuntu.com : Thread on How to disable laptop keyboard](https://askubuntu.com/questions/160945/is-there-a-way-to-disable-a-laptops-internal-keyboard)  
->[LinuxHint.com : How to Run Linux Commands and Scripts Automatically on a System Reboot](https://linuxhint.com/run_linux_command_script_sys_reboot/)
+>[LinuxHint.com : How to Run Linux Commands and Scripts Automatically on a System Reboot](https://linuxhint.com/run_linux_command_script_sys_reboot/)  
+>[DigitalOcean.com : Sed Stream Editor Basics](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux)
