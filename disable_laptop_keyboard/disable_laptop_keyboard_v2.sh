@@ -95,6 +95,7 @@ echo
 sed -i -e 's/GRUB_CMDLINE_LINUX_DEFAULT=\"quiet splash\"/GRUB_CMDLINE_LINUX_DEFAULT=\"quiet splash i8042.nokbd\"/' \/etc\/default\/grub
 sudo update-grub
 read -p "Are you ready to Reboot now ? (y/n) : " -n 1 -r
+#read -rsp $'Press any key to continue...\n' -n1 key
 echo
 if [[ ! $REPLY =~ ^[Yy]$ ]]
 then
