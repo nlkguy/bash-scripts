@@ -44,7 +44,7 @@ diskey_help(){		# Help Menu Function
 
 cat << _EOF_
 
---------------------DisKey v2.0--------------------
+DisKey v2.0 - Disable/Enable Laptop Keyboard
 
 DisKey automates the process of disabling laptop keyboard either temporarily or permanently
 
@@ -68,8 +68,6 @@ OPTIONS  :
 			--p : disable keyboard Permanently
 			
 			--h : Launch Help Menu
-
-		  --cow : launch cow assistant
 _EOF_
 }
 
