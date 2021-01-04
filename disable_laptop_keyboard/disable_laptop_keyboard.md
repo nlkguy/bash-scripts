@@ -5,6 +5,8 @@ Often times laptop keyboards fails to register keypresses when they get old , or
 ### Disable temporarily 
 ####  Using Xinput
 ``xinput`` is a utility to configure input devices in Linux machines  
+  
+  
 <img src="https://github.com/nlkguy/bash-scripts/blob/main/disable_laptop_keyboard/xinput.png" alt="Xinput" width="60%" height="60%">
 
 1. type `xinput` into a terminal  
