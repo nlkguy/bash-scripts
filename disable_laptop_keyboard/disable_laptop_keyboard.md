@@ -28,7 +28,8 @@ Example :
 2. find this line : ```GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"``` and   
 replace with : ```GRUB_CMDLINE_LINUX_DEFAULT="quiet splash i8042.nokbd"```  
 
-3. Apply changes to GRUB typing >```sudo update-grub```  
+3. Apply changes to GRUB typing 
+>```sudo update-grub```  
 
 4. `reboot` to apply changes
 
